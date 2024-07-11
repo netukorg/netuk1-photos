@@ -64,16 +64,15 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     margin: 0;
-    padding: 1.5em;
-    font-weight: bold;
-    height: 4em;
-    background: #fff;
+    padding: 0;
+    font-weight: initial;
+    height: 0;
+    background: initial;
     /* background: url('hero.jpg') center center repeat;
     background-size: contain;
     color: #fff;
     */
     position: relative;
-    visibility: hidden;
  }
   nav.breadcrumbs .mask {
     background-color: #033633;

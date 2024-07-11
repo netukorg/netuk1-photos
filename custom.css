@@ -67,9 +67,11 @@
     padding: 1.5em;
     font-weight: bold;
     height: 4em;
-    background: url('hero.jpg') center center repeat;
+    background: #fff;
+    /* background: url('hero.jpg') center center repeat;
     background-size: contain;
     color: #fff;
+    */
     position: relative;
     visibility: hidden;
  }

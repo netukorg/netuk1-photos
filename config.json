@@ -1,7 +1,7 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "",
+  "title": "Photos from NetUK1, 8th-9th July 2024",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",

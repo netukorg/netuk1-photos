@@ -2,7 +2,7 @@
 Host your photo/video gallery in Github pages easily using Thumbsup & Github Actions for free.
 
 ### Why this project?
-This project contains starter code for anyone who wants to deploy his/her photo/video galery on Github Pages,
+This project contains starter code for anyone who wants to deploy his/her photo/video gallery on Github Pages,
 **Zero Coding Needed**. Since Github pages is a free hosting service offered by Github to host static pages, it
 offers a decent bandwidth. So it is a great choice for photographers to showcase their works. Github Actions is a CI & CD
 platform that offers unlimited builds for open source projects. Combining the power of GitHub pages with Github Actions is

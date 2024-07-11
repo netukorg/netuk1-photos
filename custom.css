@@ -36,7 +36,7 @@
     user-select: none;
   }
   header {
-    color: #17baef;
+    color: #033633;
     font-size: 1.4em;
     font-family: 'Montserrat', sans-serif;
     padding: 0;
@@ -71,7 +71,8 @@
     background-size: contain;
     color: #fff;
     position: relative;
-  }
+    visibility: hidden;
+ }
   nav.breadcrumbs .mask {
     background-color: #033633;
     position: absolute;
